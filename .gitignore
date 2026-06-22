@@ -30,3 +30,7 @@ desktop.ini
 # GitHub Agents folder
 .github/agents/
 
+# Local interview cheat sheet (do not push)
+interview.md
+
+
